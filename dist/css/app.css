@@ -1,0 +1,33 @@
+div.page-header {
+    margin-top: 15px;
+}
+div.task-list-header {
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    font-size: 15px;
+}
+hr.task-list-header-divider {
+    margin-top: 0;
+}
+div.task-card {
+    margin-top: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+div.task-card p {
+    margin-bottom: 0;
+}
+div.task-card img {
+    margin-top: 5px;
+}
+div.task-card div.task-card-status {
+    text-align: left;
+}
+/*div.task-card:nth-child(even) {*/
+    /*background-color: #e9ecef;*/
+/*}*/
+div.task-list-footer {
+    margin-top: 25px;
+}
